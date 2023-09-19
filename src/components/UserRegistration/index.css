@@ -67,7 +67,7 @@
         margin: 0 20px;
     }
 }
-.register-btn{
+.start-btn{
     font-family: "Roboto";
     font-size: 16px;
     color: #ffffff;
@@ -78,5 +78,5 @@
     padding: 10px 25px;
     background-color: #097025;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 30px;
 }

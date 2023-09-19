@@ -66,7 +66,7 @@ const UserRegistration = (props) => {
                 <option value='medium'>Medium</option>
                 <option value='hard'>Hard</option>
             </select>
-            <button type="submit" className="register-btn">Register</button>
+            <button type="submit" className="start-btn">Start Game</button>
         </form>
     </div>
 }
