@@ -1,0 +1,23 @@
+
+.game-bg-container{
+    background-image: linear-gradient(to top, #787301,#7F790C,#AFA704);
+}
+.content-container{
+    width: 95%;
+    max-width: 800px;
+    min-height: 92vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media screen and (min-width: 768px) {
+    .content-container{
+        min-height: 88vh;
+    }
+}
+.color-box{
+    width: 300px;
+    height: 300px;
+    cursor: pointer;
+}

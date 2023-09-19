@@ -1,0 +1,80 @@
+.game-over-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.game-over-text{
+    font-family: "Roboto";
+    font-size: 36px;
+    color: rgb(84, 3, 3);
+    font-weight: 900;
+    text-align: center;
+    border: 2px solid rgb(84, 3, 3);
+    border-radius: 10px;
+    width: 200px;
+}
+.game-over-card{
+    background-image: linear-gradient(#7F8993,#525D69);
+    width: 250px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+.user-name{
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #03476b;
+    font-weight: 400;
+}
+.result{
+    font-family: "Oswald";
+    font-size: 28px;
+    color: #042738;
+    font-weight: 600;
+}
+.target-clicks-text{
+    font-family: "Roboto";
+    font-size: 12px;
+    color: black
+}
+.your-clicks-text{
+    font-family: "Roboto";
+    font-size: 12px;
+    color: black
+}
+.play-again-btn{
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #ffffff99;
+    background-color: #043824;
+    padding: 6px 14px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 20px;
+    cursor: pointer;
+    outline: none;
+
+}
+@media screen and (min-width: 768px){
+    .game-over-card{
+        width: 400px;
+        padding: 40px;
+    }
+    .user-name{
+        font-size: 24px;
+    }
+    .result{
+        font-size: 32px;
+    }
+    .target-clicks-text{
+        font-size: 14px;
+    }
+    .your-clicks-text{
+        font-size: 14px;
+
+    }
+    .play-again-btn{
+        font-size: 14px;
+        padding: 12px 24px;
+    }
+}

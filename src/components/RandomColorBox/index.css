@@ -1,0 +1,18 @@
+.random-color-box-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.expected-clicks{
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #6C015C;
+    font-weight: 600;
+}
+.your-clicks{
+    font-family: "Roboto";
+    font-size: 22px;
+    color: #01346C;
+    font-weight: 600;
+}
