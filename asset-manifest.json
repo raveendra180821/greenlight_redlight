@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/greenlight_redlight/static/css/main.4adcae2d.css",
+    "main.js": "/greenlight_redlight/static/js/main.700bc2cf.js",
+    "index.html": "/greenlight_redlight/index.html",
+    "main.4adcae2d.css.map": "/greenlight_redlight/static/css/main.4adcae2d.css.map",
+    "main.700bc2cf.js.map": "/greenlight_redlight/static/js/main.700bc2cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4adcae2d.css",
+    "static/js/main.700bc2cf.js"
+  ]
+}
